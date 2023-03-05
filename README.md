@@ -13,9 +13,7 @@
 
 - 📫 Services I provides **🚀 eCommerce Website Development 🚀 Custom Web Design and Development 🚀 API Development & Integration 🚀 Payment Gateway Integration 🚀 Script Development 🚀 Git | Linux (Ubuntu) | AWS | Web optimization | Socket Programming | PusherJs 🚀 Codecanyon Script Integration**
 
-- 📄 Why work with me? [✔ I am flexible to project demands and shifting of priorities. ✔ You can expect from me easy communication, honest opinions on projects! ✔ I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. ✔ I am open and willing to learn whatever is necessary to accomplish my client's goals. ✔ Excellent Problem Solver](✔ I am flexible to project demands and shifting of priorities. ✔ You can expect from me easy communication, honest opinions on projects! ✔ I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. ✔ I am open and willing to learn whatever is necessary to accomplish my client's goals. ✔ Excellent Problem Solver)
-
-- ⚡ Fun fact **Upwork Top Rated Plus**
+- ⚡ Why work with me? **✔ I am flexible to project demands and shifting of priorities. ✔ You can expect from me easy communication, honest opinions on projects! ✔ I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. ✔ I am open and willing to learn whatever is necessary to accomplish my client's goals. ✔ Excellent Problem Solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
