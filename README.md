@@ -3,10 +3,6 @@
 
 - 🤝 Hire me for **✔ Quality work ✔ Long Term work ✔ Quick Delivery ✔ 100% satisfaction**
 
-- 👨‍💻 My projects are available at [https://softtechover.com/portfolio](https://softtechover.com/portfolio)
-
-- 📝 I write articles on [https://softtechover.com/blog](https://softtechover.com/blog)
-
 - 💬 My expertise **Laravel, ReactJs, VueJs, AngularJs, Codeigniter, Php, Rest APIs, Server Configurations, JavaScript, Jquery, Html, CSS3, Script Integration / Customization.**
 
 - 📫 Services I provides **🚀 eCommerce Website Development 🚀 Custom Web Design and Development 🚀 API Development & Integration 🚀 Payment Gateway Integration 🚀 Script Development 🚀 Git | Linux (Ubuntu) | AWS | Web optimization | Socket Programming | PusherJs 🚀 Codecanyon Script Integration**
