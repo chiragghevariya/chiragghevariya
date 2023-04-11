@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chirag Ghevariya</h1>
+<h1 align="center">Hi 👋, I'm Chirag G</h1>
 <h3 align="center">Passionate Full Stack Web Developer.</h3>
 
 - 🤝 Hire me for **✔ Quality work ✔ Long Term work ✔ Quick Delivery ✔ 100% satisfaction**
